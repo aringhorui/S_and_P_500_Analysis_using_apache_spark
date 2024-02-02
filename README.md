@@ -27,8 +27,8 @@ The culmination of these analyses yields comprehensive insights into the intrica
     - main -> scala -> finalproject.sc (Scala code with all analyses)
 
 - Datasets
-  - constituentsfinal.csv
-  - stock_details_5_years.csv
+  - constituentsfinal.csv( https://github.com/datasets/s-and-p-500-companies/blob/main/data/constituents.csv )
+  - stock_details_5_years.csv( https://www.kaggle.com/datasets/iveeaten3223times/massive-yahoo-finance-dataset )
 
 - Python Visualization
   - Contains all CSV files generated from Spark analysis
