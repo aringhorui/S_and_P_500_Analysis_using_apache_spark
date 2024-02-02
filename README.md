@@ -18,6 +18,7 @@ The culmination of these analyses yields comprehensive insights into the intrica
 - Apache Spark
 - Scala (version 2.12.18)
 - Python (libraries: pandas, matplotlib.pyplot, numpy)
+- MySql
 
 ## Folder Structure
 - BDMS Spark Analysis (Scala project file)
